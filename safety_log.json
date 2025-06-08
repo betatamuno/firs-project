@@ -1,0 +1,26 @@
+[
+    {
+        "description": "UV exposure from open reactor",
+        "risk_level": "High",
+        "control_measures": "Use shielding and PPE",
+        "date_added": "2025-06-01 22:23"
+    },
+    {
+        "description": "Handling TiO2 nanoparticles",
+        "risk_level": "Medium",
+        "control_measures": "Use fume hood and gloves",
+        "date_added": "2025-06-01 22:23"
+    },
+    {
+        "description": "Electrical short in UV lamp",
+        "risk_level": "Critical",
+        "control_measures": "Install grounding, insulation",
+        "date_added": "2025-06-01 22:23"
+    },
+    {
+        "description": "Spillage of treated water",
+        "risk_level": "Low",
+        "control_measures": "Secondary containment",
+        "date_added": "2025-06-01 22:23"
+    }
+]
